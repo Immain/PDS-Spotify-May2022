@@ -12,7 +12,7 @@ A spotify 2.0 hobby build I did for fun to challenge myself and test my skills.
 - **Recoil:** https://recoiljs.org/
 - **Spotify for Developers:** https://developer.spotify.com/
 - **Tailwind CSS:** https://tailwindcss.com/
-- **Vercel:** https://vercel.com/?utm_source=github&utm_medium=readme&utm_campaign=next-example
+- **Vercel:** https://vercel.com/features/previews
 
 ## Deploy your own
 
