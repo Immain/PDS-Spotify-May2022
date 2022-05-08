@@ -6,6 +6,7 @@ A spotify 2.0 hobby build I did for fun to challenge myself and test my skills.
 
 ## Learning Links
 - **Next.js:** https://nextjs.org/
+- **Next.js Dev:** https://nextjsdev.com/
 - **React.js:** https://reactjs.org/
 - **NextAuth:** https://next-auth.js.org/ 
 - **Recoil:** https://recoiljs.org/
