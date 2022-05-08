@@ -2,7 +2,7 @@
 
 # Spotify 2.0 Hobby Build using Next.js, Tailwind CSS, ReCoil, React, NextAuth, Middleware, & The Spotify API
 
-A spotify 2.0 hobby build I did for fun to challenge myself and test my skills. 
+A spotify 2.0 hobby build I did for fun to challenge myself and test my skills. This project is a work in progress and is not the complete version, some functions may not work. 
 ##
 **Demo:** https://app.pandashangout.com/
 
