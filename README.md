@@ -1,4 +1,4 @@
-<img src=http://assets.stickpng.com/images/5ece500f123d6d0004ce5f8a.png>
+<img src=https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png>
 
 # Spotify 2.0 Hobby Build using Next.js, Tailwind CSS, ReCoil, NextAuth, Middleware, & The Spotify API
 
