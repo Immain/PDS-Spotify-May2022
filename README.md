@@ -1,4 +1,5 @@
 <img src=http://assets.stickpng.com/images/5ece500f123d6d0004ce5f8a.png>
+
 # Spotify 2.0 Hobby Build using Next.js, Tailwind CSS, ReCoil, NextAuth, Middleware, & The Spotify API
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
