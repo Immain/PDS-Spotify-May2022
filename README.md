@@ -6,6 +6,8 @@ A spotify 2.0 hobby build I did for fun to challenge myself and test my skills.
 ##
 **Demo:** https://app.pandashangout.com/
 
+<img src=https://pandadatasystems.com/wp-content/uploads/2022/05/Spotify.png>
+
 ## Learning Links
 - **Next.js:** https://nextjs.org/
 - **Next.js Dev:** https://nextjsdev.com/
