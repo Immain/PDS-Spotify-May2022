@@ -14,6 +14,13 @@ A spotify 2.0 hobby build I did for fun to challenge myself and test my skills.
 - **Tailwind CSS:** https://tailwindcss.com/
 - **Vercel:** https://vercel.com/features/previews
 
+## What it Does
+- Fetches Spotify Playlists + Control Music playback with the Spotify API
+- Authenticates with Spotify + NextAuth to persist a user's logged in state!
+- Incorporates Tailwind CSS to style an awesome responsive UI
+- Uses Next.js 12 Middleware to handle authenticated user access!
+- Uses Recoil for state management (when switching playlists and songs)!
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
