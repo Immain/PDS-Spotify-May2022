@@ -19,7 +19,7 @@ A spotify 2.0 hobby build I did for fun to challenge myself and test my skills. 
 - **Vercel:** https://vercel.com/features/previews
 
 ## What it Does
-- Fetches Spotify Playlists + Control Music playback with the Spotify API
+- Fetches Spotify Playlists + Controls Music playback with the Spotify API
 - Authenticates with Spotify + NextAuth to persist a user's logged in state!
 - Incorporates Tailwind CSS to style an awesome responsive UI
 - Uses Next.js 12 Middleware to handle authenticated user access!
