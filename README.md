@@ -4,7 +4,7 @@
 
 A spotify 2.0 hobby build I did for fun to challenge myself and test my skills. 
 
-# Links
+## Learning Links
 - **Next.js:** https://nextjs.org/
 - **NextAuth:** https://next-auth.js.org/ 
 - **Recoil:** https://recoiljs.org/
