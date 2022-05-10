@@ -4,8 +4,6 @@
 
 A spotify 2.0 hobby build I did for fun to challenge myself and test my skills. This project is a work in progress and is not the complete version, some functions may not work. 
 ##
-**Demo:** https://app.pandashangout.com/login
-
 <img src=https://pandadatasystems.com/wp-content/uploads/2022/05/Spotify.png>
 
 ## Learning Links
